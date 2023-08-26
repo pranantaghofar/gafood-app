@@ -2,9 +2,6 @@
 
 ![Image](https://cdn.dribbble.com/userupload/6449325/file/original-29ac1c5702ff41e63010311547006bb4.png?compress=1&resize=1600x1200)
 
-## Download APK 
-
-
 ## Get Started
 
 install dev dependencies
@@ -23,7 +20,7 @@ Run The app
 
 Runs your app in development mode.
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+Open it in the [⚙️ Project page: ](https://expo.dev/@ghofarasnanto/gafood-app?serviceType=classic&distribution=expo-go) on your phone to view it. It will demo views.
 
 #### `npm run ios` or `yarn run ios`
 
